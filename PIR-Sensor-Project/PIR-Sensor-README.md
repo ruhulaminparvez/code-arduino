@@ -6,7 +6,7 @@
 | U1 | 1 | Arduino Uno R3 |
 | R1 | 1 | 1 k-ohm Resistor |
 | D1 | 1 | Blue LED |
-| PIR1 | 1 | 4.921875 , -188.01229473512015 , -192.77343749999994 , -205.9343660641339 PIR Sensor |
+| PIR1 | 1 | PIR Sensor |
 
 
 ## Preview
