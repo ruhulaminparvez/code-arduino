@@ -8,10 +8,10 @@
 
 
 ## Preview
-Before, run the program : 
+#### Before, run the program : 
 ![Ultrasonic](images/ultrasonic-one.png)
 
-After, run the program : 
+#### After, run the program : 
 ![Ultrasonic](images/ultrasonic-two.png)
 
 

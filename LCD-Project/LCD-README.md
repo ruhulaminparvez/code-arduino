@@ -10,10 +10,10 @@
 
 
 ## Preview
-Before, run the program :
+#### Before, run the program :
 ![LCD](images/lcd-one.png)
 
-After, run the program :
+#### After, run the program :
 ![LCD](images/lcd-two.png)
 
 
