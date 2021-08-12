@@ -8,11 +8,9 @@
 
 
 ## Preview
-Before, run the program :
-![Ultrasonic](images/ultrasonic-one.png)
+Before, run the program : ![Ultrasonic](images/ultrasonic-one.png)
 
-After, run the program :
-![Ultrasonic](images/ultrasonic-two.png)
+After, run the program : ![Ultrasonic](images/ultrasonic-two.png)
 
 
 ## Project Code
