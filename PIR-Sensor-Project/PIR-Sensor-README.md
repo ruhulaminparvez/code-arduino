@@ -10,7 +10,10 @@
 
 
 ## Preview
+Before, run the program :
 ![PIR Sensor](images/pir-sensor-one.png)
+
+After, run the program :
 ![PIR Sensor](images/pir-sensor-two.png)
 
 
