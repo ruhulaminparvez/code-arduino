@@ -11,10 +11,10 @@
 
 
 ## Preview
-Before, run the program :
+#### Before, run the program :
 ![Door Password System](images/door-password-one.png)
 
-After, run the program :
+#### After, run the program :
 ![Door Password System](images/door-password-two.png)
 ![Door Password System](images/door-password-three.png)
 ![Door Password System](images/door-password-four.png)
